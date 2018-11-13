@@ -3,7 +3,7 @@ title: Architecture
 order: 2
 ---
 
-we have builded the _ecotype_ cluster,
+We have builded the _ecotype_ cluster,
 which contains 48 servers, and is integrated in the Grid'5000
 infrastructure: any Grid'5000 user can reserve servers of the
 _ecotype_ cluster and conduct experiments on them by using the

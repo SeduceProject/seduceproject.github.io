@@ -8,6 +8,17 @@ excerpt: "SeDuCe is a research project that aims at building a scientific testbe
 order: 1
 ---
 
+<style>
+#seduce {
+    font-size: 3em;
+    color: white;
+}
+
+.feature {
+    color: white;
+}
+</style>
+
 ### Introduction
 
 SeDuCe is a CPER research project that aims at building a scientific testbed to enable the study of both thermal and power management aspects in datacenters. The testbed is hosted at the [IMT Atlantique](https://www.imt-atlantique.fr/fr) campus located in Nantes.

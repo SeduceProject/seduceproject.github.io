@@ -27,11 +27,26 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
 
-theme: alembic-jekyll-theme
+# plugins:
+#   - jekyll-feed
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -46,9 +61,9 @@ theme: alembic-jekyll-theme
 
 navigation_header:
   Home: /
-  Architecture: /architecture/
-  Publications: /publications/
+  Architecture: /architecture
+  Publications: /publications
   Dashboard: https://seduce.fr
   API: https://api.seduce.fr
-  Contact: /contact/
+  Contact: /contact
   Github: https://github.com/SeduceProject
