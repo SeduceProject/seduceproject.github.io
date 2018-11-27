@@ -63,7 +63,7 @@ navigation_header:
   Home: /
   Architecture: /architecture
   Publications: /publications
-  Dashboard: https://seduce.fr
+  Dashboard: https://dashboard.seduce.fr
   API: https://api.seduce.fr
   Contact: /contact
   Github: https://github.com/SeduceProject
