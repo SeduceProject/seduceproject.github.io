@@ -11,6 +11,6 @@ exclude_from_menu: true
 }
 </style>
 
-![image-unhappy-cloud](/assets/img/unhappy_cloud.png){: .unhappy_cloud_img}
+![image-unhappy-cloud-missing](/assets/img/unhappy_cloud.png){: .unhappy_cloud_img}
 
 We are working hard on bringing it back!
