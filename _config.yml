@@ -67,3 +67,12 @@ navigation_header:
   API: https://api.seduce.fr
   Contact: /contact
   Github: https://github.com/SeduceProject
+
+navigation_footer:
+  Home: /
+  Architecture: /architecture
+  Publications: /publications
+  Dashboard: https://dashboard.seduce.fr
+  API: https://api.seduce.fr
+  Contact: /contact
+  Github: https://github.com/SeduceProject
