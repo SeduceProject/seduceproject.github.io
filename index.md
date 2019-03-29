@@ -46,3 +46,4 @@ The CPER SeDuCe is funded by:
 - Inria Rennes - Bretagne Atlantique
 - IMT Atlantique
 - French government
+- European Union via the _European Regional Development Fund_ (FEDER)
