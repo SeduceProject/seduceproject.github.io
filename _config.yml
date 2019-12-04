@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: SeDuCe project
 logo: "/assets/img/logo_small.png"
-email: your-email@example.com
+email: seducecloud@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -60,20 +60,39 @@ remote_theme: daviddarnes/alembic
 #   - vendor/ruby/
 
 navigation_header:
-  Home: /
-  Architecture: /architecture
-  Publications: /publications
-  Gallery: /gallery
-  Dashboard: https://dashboard.seduce.fr
-  API: https://api.seduce.fr
-  Contact: /contact
-  Github: https://github.com/SeduceProject
-
+ - title: Home
+   url: /
+ - title: Architecture
+   url: /architecture
+ - title: Publications
+   url: /publications
+ - title: Gallery
+   url: /gallery
+ - title: Getting started
+   url: /getting_started
+ - title: Dashboard
+   url: https://dashboard.seduce.fr
+ - title: API
+   url: https://api.seduce.fr
+ - title: Contact
+   url: /contact
+ - title: Github
+   url: https://github.com/SeduceProject
+   
 navigation_footer:
-  Home: /
-  Architecture: /architecture
-  Publications: /publications
-  Dashboard: https://dashboard.seduce.fr
-  API: https://api.seduce.fr
-  Contact: /contact
-  Github: https://github.com/SeduceProject
+  - title: Home
+    url: /
+  - title: Architecture
+    url: /architecture
+  - title: Publications
+    url: /publications
+  - title: Getting started
+    url: /getting_started
+  - title: Dashboard
+    url: https://dashboard.seduce.fr
+  - title: API
+    url: https://api.seduce.fr
+  - title: Contact
+    url: /contact
+  - title: Github
+    url: https://github.com/SeduceProject
