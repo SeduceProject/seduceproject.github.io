@@ -19,6 +19,7 @@ order: 1
 }
 </style>
 
+
 ### Introduction
 
 SeDuCe is a CPER research project that aims at building a scientific testbed to enable the study of both thermal and power management aspects in datacenters. The testbed is hosted at the [IMT Atlantique](https://www.imt-atlantique.fr/fr) campus located in Nantes.
@@ -43,7 +44,9 @@ SeDuCe is a CPER research project that aims at building a scientific testbed to 
 The CPER SeDuCe is funded by:
 - Regional concil of the Pays de la Loire
 - Nantes Metropole
-- Inria Rennes - Bretagne Atlantique
+- Inria
 - IMT Atlantique
 - French government
 - European Union via the _European Regional Development Fund_ (FEDER)
+
+![Funding](/assets/img/Logos.png)

@@ -1,0 +1,10 @@
+FROM jekyll/jekyll:3.8
+
+
+COPY --chown=jekyll:jekyll Gemfile .
+COPY --chown=jekyll:jekyll Gemfile.lock .
+
+RUN bundle install --quiet --clean
+COPY --chown=jekyll:jekyll . /srv/jekyll/
+
+CMD ["jekyll", "serve"]

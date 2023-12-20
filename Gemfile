@@ -41,6 +41,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Install alembic theme
-gem "alembic-jekyll-theme"
+gem "alembic-jekyll-theme", "~> 3.1.0"
 
 
