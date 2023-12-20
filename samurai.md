@@ -30,9 +30,11 @@ SAMURAI (Sustainable And autonoMoUs gReen computing for AI) is a pioneering rese
 - Integration of an intelligent energy storage system, aiming for complete energy autonomy.
 - Extension with AI computing nodes: Incorporation of several high-performance nodes with GPUs for intensive AI computations.
 - Addition of over 150 advanced sensor nodes (FIT IoT-Lab nodes) for embedded sensing and AI applications.
-- Mutiple Jetson Nano node with integrated GPUs for edge computing with low-latency and AI capabilities.
-- Details power consumption monitoring for all IoT nodes.
+- Mutiple Jetson Nano nodes with integrated GPUs for edge computing with low-latency and AI capabilities.
+- Mutiple Edge compute nodes based on the RaspberryPi 4B for geo-distributed edge computing.
+- Detailed power consumption monitoring for all nodes.
 - Focus on multidisciplinary research in areas like energy management, AI, distributed computing and IoT.
+- Future integration into the SLICES RI and the SLICES-FR projects.
 
 ### Team
 
