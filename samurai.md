@@ -2,7 +2,7 @@
 title: Samurai
 feature_text: |
   ## Samurai
-  A Testbed for research on thermal and power management in datacenters
+  A testbed for Sustainable And autonoMoUs gReen computing for AI
 feature_image: "/assets/img/servers.png"
 excerpt: "SAMURAI (Sustainable And autonoMoUs gReen computing for AI) is an innovative research project focused on developing a sustainable, AI-enabled computing infrastructure. It extends the SeDuCe platform's capabilities by integrating renewable energy sources, advanced AI computing nodes as well as Edge ans Iot nodes."
 
@@ -10,7 +10,7 @@ order: 1
 ---
 
 <style>
-#seduce {
+#samurai {
     font-size: 3em;
     color: white;
 }
