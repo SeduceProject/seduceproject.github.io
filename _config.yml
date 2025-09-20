@@ -60,43 +60,43 @@ remote_theme: daviddarnes/alembic@3.1.0
 #   - vendor/ruby/
 
 navigation_header:
- - title: Samurai
-   url: /
- - title: SeDuCe
-   url: /seduce
- - title: Architecture
-   url: /architecture
- - title: Publications
-   url: /publications
- - title: Gallery
-   url: /gallery
- - title: Getting started
-   url: /getting_started
- - title: Dashboard
-   url: https://dashboard.seduce.fr
- - title: API
-   url: https://api.seduce.fr
- - title: Contact
-   url: /contact
+    - title: Samurai
+      url: /
+    - title: SeDuCe
+      url: /seduce
+    - title: Architecture
+      url: /architecture
+    - title: Publications
+      url: /publications
+    - title: Gallery
+      url: /gallery
+    - title: Getting started
+      url: /getting_started
+    - title: Dashboard
+      url: https://dashboard.seduce.fr
+    - title: API
+      url: https://api.seduce.fr
+    - title: Contact
+      url: /contact
 # - title: Github
 #   url: https://github.com/SeduceProject
    
 navigation_footer:
- - title: Samurai
-   url: /
- - title: SeDuCe
-   url: /seduce
-  - title: Architecture
-    url: /architecture
-  - title: Publications
-    url: /publications
-  - title: Getting started
-    url: /getting_started
-  - title: Dashboard
-    url: https://dashboard.seduce.fr
-  - title: API
-    url: https://api.seduce.fr
-  - title: Contact
-    url: /contact
-# - title: Github
+    - title: Samurai
+      url: /
+    - title: SeDuCe
+      url: /seduce
+    - title: Architecture
+      url: /architecture
+    - title: Publications
+      url: /publications
+    - title: Getting started
+      url: /getting_started
+    - title: Dashboard
+      url: https://dashboard.seduce.fr
+    - title: API
+      url: https://api.seduce.fr
+    - title: Contact
+      url: /contact
+ # - title: Github
 #   url: https://github.com/SeduceProject
