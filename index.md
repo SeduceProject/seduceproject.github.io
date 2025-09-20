@@ -1,15 +1,16 @@
 ---
-title: Home
+title: Samurai
 feature_text: |
-  ## SeDuCe
-  A Testbed for research on thermal and power management in datacenters
+  ## Samurai
+  A testbed for Sustainable And autonoMoUs gReen computing for AI
 feature_image: "/assets/img/servers.png"
-excerpt: "SeDuCe is a research project that aims at building a scientific testbed to enable the study of both thermal and power management aspects in datacenters."
+excerpt: "SAMURAI (Sustainable And autonoMoUs gReen computing for AI) is an innovative research project focused on developing a sustainable, AI-enabled computing infrastructure. It extends the SeDuCe platform's capabilities by integrating renewable energy sources, advanced AI computing nodes as well as Edge ans Iot nodes."
+
 order: 1
 ---
 
 <style>
-#seduce {
+#samurai {
     font-size: 3em;
     color: white;
 }
@@ -22,31 +23,36 @@ order: 1
 
 ### Introduction
 
-SeDuCe is a CPER research project that aims at building a scientific testbed to enable the study of both thermal and power management aspects in datacenters. The testbed is hosted at the [IMT Atlantique](https://www.imt-atlantique.fr/fr) campus located in Nantes.
+SAMURAI (Sustainable And autonoMoUs gReen computing for AI) is a pioneering research project that enhances the SeDuCe infrastructure. This project aims to create an advanced hardware platform for studying the intersection of AI infrastructure and energy autonomy, focusing on renewable energy integration and AI computing capabilities.
 
 ### In short
 
-- 48 servers located in airtights racks and integrated in [Grid'5000](https://www.grid5000.fr/mediawiki/index.php/Grid5000:Home) (_ecotype_ cluster)
-- Power consumption of each server is monitored
-- Temperature at the front and the back of each server is monitored
-- More than 200 sensors probe is collected every second
-- A [Dashboard](https://seduce.fr) that eases the visualization of data
-- An [API](https://api.seduce.fr) that enables to integrate data and third party scripts
-- _(In Progress)_ Integration of renewable energy in the testbed (solar panels + batteries)
+- Integration of an intelligent energy storage system, aiming for complete energy autonomy.
+- Extension with AI computing nodes: Incorporation of several high-performance nodes with GPUs for intensive AI computations.
+- Addition of over 150 advanced sensor nodes (FIT IoT-Lab nodes) for embedded sensing and AI applications.
+- Mutiple Jetson Nano nodes with integrated GPUs for edge computing with low-latency and AI capabilities.
+- Mutiple Edge compute nodes based on the RaspberryPi 4B for geo-distributed edge computing.
+- Detailed power consumption monitoring for all nodes.
+- Focus on multidisciplinary research in areas like energy management, AI, distributed computing and IoT.
+- Future integration into the SLICES RI and the SLICES-FR projects.
 
 ### Team
 
 - [Jean-Marc Menaud](http://menaud.fr)
-- [Jonathan Pastor](http://jonathanpastor.fr)
+- [Remous-Aris Koutsiamanis](https://ariskou.com)
 
 ### Funding
 
-The CPER SeDuCe is funded by:
-- Regional concil of the Pays de la Loire
+The CPER Samurai is funded by:
+
+- Regional council of the Pays de la Loire
 - Nantes Metropole
 - Inria
 - IMT Atlantique
 - French government
-- European Union via the _European Regional Development Fund_ (FEDER)
+- European Union via the
+  - _European Regional Development Fund_ (FEDER)
+  - _Recovery assistance for cohesion and the territories of Europe_ (REACT-EU)
 
-![Funding](/assets/img/Logos.png)
+![Funding](/assets/img/SAMURAI_Logos.png)
+
