@@ -1,11 +1,11 @@
 ---
-title: Home
+title: SeDuCe
 feature_text: |
   ## SeDuCe
   A Testbed for research on thermal and power management in datacenters
 feature_image: "/assets/img/servers.png"
 excerpt: "SeDuCe is a research project that aims at building a scientific testbed to enable the study of both thermal and power management aspects in datacenters."
-order: 1
+order: 2
 ---
 
 <style>

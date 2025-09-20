@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SeDuCe project
+title: Samurai project
 logo: "/assets/img/logo_small.png"
 email: seducecloud@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -60,8 +60,10 @@ remote_theme: daviddarnes/alembic@3.1.0
 #   - vendor/ruby/
 
 navigation_header:
- - title: Home
+ - title: Samurai
    url: /
+ - title: SeDuCe
+   url: /seduce
  - title: Architecture
    url: /architecture
  - title: Publications
@@ -76,12 +78,14 @@ navigation_header:
    url: https://api.seduce.fr
  - title: Contact
    url: /contact
- - title: Github
-   url: https://github.com/SeduceProject
+ # - title: Github
+ #   url: https://github.com/SeduceProject
    
 navigation_footer:
-  - title: Home
-    url: /
+ - title: Samurai
+   url: /
+ - title: SeDuCe
+   url: /seduce
   - title: Architecture
     url: /architecture
   - title: Publications
@@ -94,5 +98,5 @@ navigation_footer:
     url: https://api.seduce.fr
   - title: Contact
     url: /contact
-  - title: Github
-    url: https://github.com/SeduceProject
+  # - title: Github
+  #   url: https://github.com/SeduceProject
