@@ -78,8 +78,8 @@ navigation_header:
    url: https://api.seduce.fr
  - title: Contact
    url: /contact
- # - title: Github
- #   url: https://github.com/SeduceProject
+# - title: Github
+#   url: https://github.com/SeduceProject
    
 navigation_footer:
  - title: Samurai
@@ -98,5 +98,5 @@ navigation_footer:
     url: https://api.seduce.fr
   - title: Contact
     url: /contact
-  # - title: Github
-  #   url: https://github.com/SeduceProject
+# - title: Github
+#   url: https://github.com/SeduceProject
