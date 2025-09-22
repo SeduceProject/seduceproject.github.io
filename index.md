@@ -47,7 +47,6 @@ The CPER Samurai is funded by:
 
 - Regional council of the Pays de la Loire
 - Nantes Metropole
-- Inria
 - IMT Atlantique
 - French government
 - European Union via the
